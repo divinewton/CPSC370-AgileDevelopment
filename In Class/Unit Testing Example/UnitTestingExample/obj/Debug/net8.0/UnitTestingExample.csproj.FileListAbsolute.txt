@@ -1,0 +1,14 @@
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/bin/Debug/net8.0/UnitTestingExample
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/bin/Debug/net8.0/UnitTestingExample.deps.json
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/bin/Debug/net8.0/UnitTestingExample.runtimeconfig.json
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/bin/Debug/net8.0/UnitTestingExample.dll
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/bin/Debug/net8.0/UnitTestingExample.pdb
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/UnitTestingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/UnitTestingExample.AssemblyInfoInputs.cache
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/UnitTestingExample.AssemblyInfo.cs
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/UnitTestingExample.csproj.CoreCompileInputs.cache
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/UnitTestingExample.dll
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/refint/UnitTestingExample.dll
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/UnitTestingExample.pdb
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/UnitTestingExample.genruntimeconfig.cache
+/Users/divinewton/Documents/UnitTestingExample/UnitTestingExample/obj/Debug/net8.0/ref/UnitTestingExample.dll
